@@ -14,6 +14,6 @@ api = tweepy.API(auth)
 
 tab = []
 #Recherchez dans Twitter et écrivez le résultat dans Excel
-for status in api.search_tweets(q='"essence"', lang='fr', result_type='popular',count=10):
+for status in api.search_tweets(q='"f1"', lang='fr', result_type='popular',count=10):
     print(status._json)
     tab.append(status.text)

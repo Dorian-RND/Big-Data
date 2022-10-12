@@ -21,7 +21,7 @@ def get_tweets(username):
     # 200 tweets to be extracted
     number_of_tweets = 5
     tweets = api.user_timeline(screen_name=username)
-
+   # print(tweets)
     # Empty Array
     tmp = []
 

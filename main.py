@@ -1,14 +1,25 @@
-import tweepy
-
-
+import json
+from pymongo import MongoClient
 if __name__ == '__main__':
 
-    auth = tweepy.OAuth1UserHandler(
-        "gybAWPZzZqzjCLiefaMNP0F8r", "4sYS4nPLVbBltqBkGPC2VQLCfZ1tDthrhNGJQ95Olr0pFvwfw6", "1579367871179808769-6xUWVQenKafV2LasOW4XVKcH343VrG", "hzVY3qpIgubTuFGP3UnpQRHw7YcoOKYAvrr0lmtqm4nzE"
-    )
+    # Making Connection
+    myclient = MongoClient("mongodb+srv://bigData:comptedevfac72@cluster0.ot9fmac.mongodb.net/?retryWrites=true&w=majority")
 
-    api = tweepy.API(auth)
+    # database
+    db = myclient["BIGDATA"]
 
-    public_tweets = api.home_timeline()
-    for tweet in public_tweets:
-        print(tweet.text)
+    # Created or Switched to collection
+    # names: GeeksForGeeks
+    Collection = db["data"]
+
+    # Loading or Opening the json file
+    with open('data.json') as file:
+        file_data = json.load(file)
+
+    # Inserting the loaded data in the Collection
+    # if JSON contains data more than one entry
+    # insert_many is used else insert_one is used
+    if isinstance(file_data, list):
+        Collection.insert_many(file_data)
+    else:
+        Collection.insert_one(file_data)
