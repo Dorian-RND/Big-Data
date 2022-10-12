@@ -1,15 +1,14 @@
-# This is a sample Python script.
+import tweepy
 
-# Press Maj+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
-    print("test")
-    print("Push Dorian")
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+    auth = tweepy.OAuth1UserHandler(
+        "gybAWPZzZqzjCLiefaMNP0F8r", "4sYS4nPLVbBltqBkGPC2VQLCfZ1tDthrhNGJQ95Olr0pFvwfw6", "1579367871179808769-6xUWVQenKafV2LasOW4XVKcH343VrG", "hzVY3qpIgubTuFGP3UnpQRHw7YcoOKYAvrr0lmtqm4nzE"
+    )
+
+    api = tweepy.API(auth)
+
+    public_tweets = api.home_timeline()
+    for tweet in public_tweets:
+        print(tweet.text)
