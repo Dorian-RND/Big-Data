@@ -7,7 +7,6 @@ consumer_secret = "4sYS4nPLVbBltqBkGPC2VQLCfZ1tDthrhNGJQ95Olr0pFvwfw6"
 access_key = "1579367871179808769-6xUWVQenKafV2LasOW4XVKcH343VrG"
 access_secret = "hzVY3qpIgubTuFGP3UnpQRHw7YcoOKYAvrr0lmtqm4nzE"
 
-
 # Function to extract tweets
 def get_tweets(username):
     # Authorization to consumer key and consumer secret
@@ -20,7 +19,7 @@ def get_tweets(username):
     api = tweepy.API(auth)
 
     # 200 tweets to be extracted
-    number_of_tweets = 10
+    number_of_tweets = 5
     tweets = api.user_timeline(screen_name=username)
 
     # Empty Array
@@ -31,9 +30,10 @@ def get_tweets(username):
     tweets_for_csv = [tweet.text for tweet in tweets]  # CSV file created
     for j in tweets_for_csv:
         # Appending tweets to the empty array tmp
-        tmp.append(j + "\n")
+        tmp.append(j)
 
         # Printing the tweets
+    print(len(tmp))
     print(tmp)
 
 
