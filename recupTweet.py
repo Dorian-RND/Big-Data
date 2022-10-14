@@ -10,7 +10,7 @@ access_secret = "hzVY3qpIgubTuFGP3UnpQRHw7YcoOKYAvrr0lmtqm4nzE"
 # Function to extract tweets
 def get_tweets(username):
     # Authorization to consumer key and consumer secret
-    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+    auth = tweepy.OuthHandler(consumer_key, consumer_secret)
 
     # Access to user's access key and access secret
     auth.set_access_token(access_key, access_secret)
