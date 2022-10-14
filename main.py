@@ -23,3 +23,4 @@ if __name__ == '__main__':
         Collection.insert_many(file_data)
     else:
         Collection.insert_one(file_data)
+    print("donnée send")
