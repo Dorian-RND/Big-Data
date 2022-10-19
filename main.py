@@ -11,11 +11,13 @@ if __name__ == '__main__':
     # Created or Switched to collection
     # names: GeeksForGeeks
     Collection = db["data"]
+    Collection.drop()
+    Collection = db["data"]
 
     # Loading or Opening the json file
     with open('data.json') as file:
         file_data = json.load(file)
-
+    print(file_data)
     # Inserting the loaded data in the Collection
     # if JSON contains data more than one entry
     # insert_many is used else insert_one is used
