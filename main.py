@@ -19,6 +19,8 @@ def sentiment(phrase):
     polarity, subjectivity = test.sentiment
     tab_polarity.append(polarity)
     tab_subjectivity.append(subjectivity)
+    print("polarite -> "+ str(polarity))
+    print("subjectivity -> "+ str(subjectivity))
 
 
 def infoPhrase(phrase):
@@ -51,7 +53,6 @@ if __name__ == '__main__':
 
     with open(fichierJson) as file:
         file_data = json.load(file)
-    print(file_data)
 
     # ajout dans la BDD
     if isinstance(file_data, list):
@@ -65,5 +66,7 @@ if __name__ == '__main__':
     donnees = collection.find()
     for result in donnees:
 
+        print("Supression des mots vides")
         suppressionMotVide(result.get("text"))
-        # TODO mettres les sentiments
+        sentiment(result.get("text"))
+        infoPhrase(result.get("text"))
