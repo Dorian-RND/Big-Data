@@ -6,6 +6,8 @@ import unidecode
 BEARER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAAMwJiAEAAAAAHRY6uroIJnMMbtXFVde3EDR6fPA' \
                '%3DxW0bEA057h4hVuP66d9U0zlsSomX6EiL8CI51jruE2CcrBVHrd '
 
+fichier = open("dataTwitter.txt", 'a')
+
 # Fonction qui permet de normaliser un texte en paramètre
 #   - Supprime les url
 #   - Supprime les retours à la ligne
@@ -41,22 +43,12 @@ def collect_tweet(filtres, nb_tweet, fichier_json):
                                    max_results=10,
                                    tweet_fields=['created_at', 'text', 'id']).flatten(limit=nb_tweet)
 
-    data = []
     i = 0
     for tweet in tweets_list:
-        temp = {"id": tweet.id,
-                "created_at": str(tweet.created_at),
-                "text": normaliser_texte(tweet.text),
-                }
-        data.append(temp)
+        temp = str(tweet.id) + '; ' + str(tweet.created_at) + '; \"' + normaliser_texte(tweet.text) + "\"\n"
+        fichier.write(temp)
         i += 1
     print(f"Fin de la récupération de {i} Tweets")
 
-    # Ajouter le dico dans un fichier JSON
-    with open(fichier_json, "w") as outfile:
-        json.dump(data, outfile, indent=4)
 
-    print(f"Les données sont au format JSON dans le fichier : {fichier_json} ")
-
-
-collect_tweet('Redbull -is:retweet lang:en', 1000, "data_19-10-2022.json")
+collect_tweet('Redbull -is:retweet lang:en', 3, "data_19-10-2022_2.json")

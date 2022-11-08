@@ -1,5 +1,25 @@
 import json
 import tweepy
+import re
+import unidecode
+
+
+# Fonction qui permet de normaliser un texte en paramètre
+#   - Supprime les url
+#   - Supprime les retours à la ligne
+#   - Change les " en '
+#   - Normalise les caractères spéciaux (é en e)
+#   - Les # en rien
+#   - Les @ en rien
+def normaliser_texte(texte):
+    temp_text = texte
+    temp_text = re.sub(r'http\S+', '', temp_text)
+    temp_text = re.sub('\n', "", temp_text)
+    temp_text = re.sub('\"', "'", temp_text)
+    temp_text = unidecode.unidecode(temp_text)
+    temp_text = re.sub('#', "", temp_text)
+    temp_text = re.sub('@', "", temp_text)
+    return temp_text
 
 
 # Cette fonction permet de récuperer des tweets à partir de filtres et des stockés dans un fichier JSON
