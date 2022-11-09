@@ -7,6 +7,7 @@ pathCert="C:/Users/splanchenault/Desktop/elasticsearch-8.4.3/config/certs/http_c
 certificate = "d35db3c8313866065ca9a268001255d6da85af0ad1bb99c62d3f7ba8b9951b86"
 
 es = Elasticsearch("http://localhost:9200")
+contenuTweet=[]
 def scanId(index):
     hits = helpers.scan(
         es,
@@ -22,8 +23,9 @@ def scanId(index):
 def getText(index,ids):
     for i in ids:
         test = es.get(index=index, id=i)
-        print(test['_source']['text'])
+        contenuTweet.append(test['_source']['text'])
 
 
-id=scanId("mercredimatin")
-getText("mercredimatin",id)
+
+
+
