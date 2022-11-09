@@ -36,7 +36,7 @@ api = tweepy.API(auth)
 
 data = []
 
-MAX_TWEET = 2
+MAX_TWEET = 200
 
 
 # Bot searches for tweets containing certain keywords
