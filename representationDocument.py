@@ -9,7 +9,7 @@ docs = ["the house had a tiny little mouse",
         "the end of the mouse story"]
 
 # instantiate CountVectorizer()
-cv = CountVectorizer()
+cv = CountVectorizer(stop_words='english')
 
 # this steps generates word counts for the words in your docs
 word_count_vector = cv.fit_transform(docs)
@@ -20,9 +20,8 @@ print(f"Shape : {word_count_vector.shape}")
 tfidf_transformer = TfidfTransformer(smooth_idf=True, use_idf=True)
 tfidf_transformer.fit(word_count_vector)
 # print idf values
-df_idf = pd.DataFrame(tfidf_transformer.idf_, index=cv.get_feature_names(), columns=["idf_weights"])
+df_idf = pd.DataFrame(tfidf_transformer.idf_, index=cv.get_feature_names_out(), columns=["idf_weights"])
 # sort ascending
-df_idf = df_idf.sort_values(by=['idf_weights'])
 print(df_idf)
 
 # TF-IFD VALUES
@@ -31,7 +30,7 @@ count_vector = cv.transform(docs)
 # tf-idf scores
 tf_idf_vector = tfidf_transformer.transform(count_vector)
 
-feature_names = cv.get_feature_names()
+feature_names = cv.get_feature_names_out()
 # get tfidf vector for first document
 first_document_vector = tf_idf_vector[0]
 # print the scores

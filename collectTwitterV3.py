@@ -5,7 +5,7 @@ import tweepy
 import re
 import unidecode
 
-fichier = open("dataTwitter.txt", 'a')
+fichier = open("dataTwitter2.txt", 'a')
 
 
 # Fonction qui permet de normaliser un texte en paramètre
@@ -36,7 +36,7 @@ api = tweepy.API(auth)
 
 data = []
 
-MAX_TWEET = 100
+MAX_TWEET = 2
 
 
 # Bot searches for tweets containing certain keywords
@@ -70,7 +70,7 @@ stream = MyStream(bearer_token=BEARER_TOKEN)
 # called dry_run (set it to True, and the rules will get deleted after the bot
 # stopped running).
 stream.add_rules(tweepy.StreamRule("Redbull lang:en -is:retweet"))
-stream.delete_rules(1583444440470921222)
+stream.get_rules()
 
 print(f"Les règles de filtrages du stream : {str(stream.get_rules())}\n")
 stream.filter(tweet_fields=["text", "created_at"])
