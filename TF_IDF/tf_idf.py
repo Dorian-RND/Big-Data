@@ -15,6 +15,8 @@ tfidf_df = pd.DataFrame(tfidf_vector.toarray(), columns=tfidf_vectorizer.get_fea
 
 tfidf_df.loc['Document Frequency'] = (tfidf_df > 0).sum()
 
+tfidf_df.get("mouse")
+
 tfidf_slice = tfidf_df[['mouse', 'house', 'cat']]
 
 print(tfidf_slice)

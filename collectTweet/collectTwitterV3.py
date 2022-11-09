@@ -5,7 +5,7 @@ import tweepy
 import re
 import unidecode
 
-fichier = open("dataTwitter2.txt", 'a')
+fichier = open("dataTwitter.txt", 'a')
 
 
 # Fonction qui permet de normaliser un texte en paramètre
