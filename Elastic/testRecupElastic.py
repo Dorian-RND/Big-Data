@@ -17,7 +17,7 @@ def scanId(index):
     )
 
     ids = [hit['_id'] for hit in hits]
-    print (ids)
+    #print (ids)
     return ids
 
 def getText(index,ids):
