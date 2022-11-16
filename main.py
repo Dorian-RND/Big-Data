@@ -11,7 +11,6 @@ def infoPhrase(phrase):
 
 
 if __name__ == '__main__':
-    id = scanId("mercredimatin")
-    getText("mercredimatin", id)
-    print(contenuTweet)
+    id = scanId("jeudimidi")
+    getText("jeudimidi", id)
     sentiment(contenuTweet)

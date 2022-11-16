@@ -1,3 +1,4205 @@
-
-RedBull; 0.04715969215969215; 0.9528403078403078; 0.30394179894179896; 0.696058201058201
-RedBull; 0.04715969215969215; 0.9528403078403078; 0.30394179894179896; 0.696058201058201
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; tres positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; positif; 0.0
+RedBull; neutre; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; neutre; 0.0
+RedBull; positif; 0.0
+RedBull; negatif; 0.0
+RedBull; neutre; 0.0;

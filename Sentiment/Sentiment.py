@@ -7,13 +7,28 @@ tab_polarity = []
 tab_subjectivity = []
 
 
-def ecriture():
-    temp = str("RedBull") + '; ' + str(np.absolute(np.mean(tab_polarity))) + '; '+str(1-np.absolute(np.mean(tab_polarity))) + '; '+ str(np.mean(tab_subjectivity))+ '; '+ str(1-np.mean(tab_subjectivity)) + "\n"
-    print(temp)
-    fichier.write(temp)
+def ecriture(polarity, subjectivity):
+    for polarite in (polarity):
+        polarite=float(polarite)
+        if polarite < -0.5:
+            polarite = "tres negatif"
+        elif -0.5 <= polarite < 0.0:
+            polarite = "negatif"
+        elif polarite==0.0:
+            polarite="neutre"
+        elif 0.0 < polarite < 0.5:
+            polarite = "positif"
+        else:
+            polarite = "tres positif"
+
+        for j in subjectivity:
+            subjectivite=j
+
+
+        temp = str("RedBull") + '; ' + polarite + '; ' + str(subjectivite) + "\n"
+        print("ecriture dans le fichier send")
+        fichier.write(temp)
     fichier.close()
-
-
 
 
 def sentiment(donnee):
@@ -22,4 +37,4 @@ def sentiment(donnee):
         polarity, subjectivity = test.sentiment
         tab_polarity.append(polarity)
         tab_subjectivity.append(subjectivity)
-    ecriture()
+    ecriture(tab_polarity, tab_subjectivity)
