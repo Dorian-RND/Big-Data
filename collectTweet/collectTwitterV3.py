@@ -5,7 +5,7 @@ import tweepy
 import re
 import unidecode
 
-fichier = open("dataTwitter.txt", 'a')
+fichier = open("dataTwitter_2.txt", 'a')
 
 
 # Fonction qui permet de normaliser un texte en paramètre
@@ -14,9 +14,10 @@ def normaliser_texte(texte):
     temp_text = re.sub('\n', "", temp_text)
     temp_text = re.sub('\"', "'", temp_text)
     temp_text = unidecode.unidecode(temp_text)
-    temp_text = re.sub('#', "", temp_text)
+    # temp_text = re.sub('#', "", temp_text)
     # temp_text = re.sub('@', "", temp_text)
     temp_text = re.sub(';', "", temp_text)
+    temp_text = re.sub(',', "", temp_text)
     return temp_text
 
 
@@ -70,6 +71,7 @@ stream = MyStream(bearer_token=BEARER_TOKEN)
 # called dry_run (set it to True, and the rules will get deleted after the bot
 # stopped running).
 stream.add_rules(tweepy.StreamRule("Redbull lang:en -is:retweet"))
+stream.delete_rules(1592872449774944258)
 stream.get_rules()
 
 print(f"Les règles de filtrages du stream : {str(stream.get_rules())}\n")

@@ -66,4 +66,4 @@ def collect_tweet(filtres, langue, nb_tweet, fichier_json):
     print(f"Les données sont au format JSON dans le fichier : {fichier_json} ")
 
 
-collect_tweet(['Redbull'], "en", 2000, "data.json")
+collect_tweet(['Redbull'], "en", 2000, "dataRecup.json")
