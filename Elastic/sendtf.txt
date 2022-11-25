@@ -1,0 +1,6 @@
+Mercedes; 0.3
+RedBull; 0.2
+wings; 0.3
+F1; 0.1
+triche; 0.1
+williams; 0.8
