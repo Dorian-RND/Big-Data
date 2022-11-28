@@ -2,6 +2,7 @@ import json
 import spacy
 
 from Sentiment.Sentiment import sentiment
+from pays.pays import recherchePays
 
 nlp = spacy.load("en_core_web_sm")
 from pymongo import MongoClient
@@ -13,6 +14,7 @@ fichierJson = "dataRecup.json"
 
 tab_polarity = []
 tab_subjectivity = []
+
 
 def cluster(db):
     collection = db["cluster"]
@@ -44,7 +46,7 @@ def cluster(db):
 
 def insererdoc():
     collection = db[nomCollection]
-    #collection.drop()
+    collection.drop()
     with open(fichierJson) as file:
         file_data = json.load(file)
     # ajout dans la BDD
@@ -52,18 +54,22 @@ def insererdoc():
 
 
 if __name__ == '__main__':
-    text=[]
+    text = []
+    pays= []
     # Making Connection
     myclient = MongoClient(serveurMongo)
     print("connecter")
     # database
     db = myclient[nomDB]
     collection = db[nomCollection]
-    #insererdoc()
-
+    # insererdoc()
     # pour inserer les sentiments
-   # donnees = collection.find()
-    #for result in donnees:
-    #    text.append(result.get("text"))
-    #sentiment(text)
-    cluster(db)
+    donnees = collection.find()
+    for result in donnees:
+        text.append(result.get("text_tweet"))
+        pays.append(result.get("localisation_tweet"))
+
+    # sentiment(text)
+    recherchePays(pays)
+
+    # cluster(db)
