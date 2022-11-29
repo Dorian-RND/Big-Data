@@ -1,7 +1,11 @@
 import json
 import spacy
+import nltk
 
 from Sentiment.Sentiment import sentiment
+from TF_IDF.df_idf import df_idf
+from collectTweet.CSVtoJSON import csv_to_json
+from date.date import date
 from pays.pays import recherchePays
 
 nlp = spacy.load("en_core_web_sm")
@@ -55,21 +59,27 @@ def insererdoc():
 
 if __name__ == '__main__':
     text = []
-    pays= []
+    pays = []
+    datetweet = []
     # Making Connection
     myclient = MongoClient(serveurMongo)
     print("connecter")
     # database
     db = myclient[nomDB]
     collection = db[nomCollection]
-    # insererdoc()
+    #insererdoc()
     # pour inserer les sentiments
     donnees = collection.find()
     for result in donnees:
-        text.append(result.get("text_tweet"))
-        pays.append(result.get("localisation_tweet"))
+        text.append(result.get("tweet_localisation"))
+        pays.append(result.get("tweet_text"))
+        datetweet.append(result.get("tweet_date"))
 
-    # sentiment(text)
-    recherchePays(pays)
+    #sentiment(text)
+    #recherchePays(pays)
+    cluster(db)
+    #date(datetweet)
 
-    # cluster(db)
+    nltk.download('omw-1.4')
+    df_idf(text, "idfFin.csv")
+    csv_to_json("idfFin.csv", "idfFin.json")

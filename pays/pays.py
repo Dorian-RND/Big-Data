@@ -14,7 +14,6 @@ def recherchePays(data):
     for pays in data:
 
         if pays != None:
-            print(pays)
             info = {
                 "pays": pays
             }
