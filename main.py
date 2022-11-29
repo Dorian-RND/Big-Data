@@ -57,15 +57,22 @@ def lemmatize_docs(doc):
 
 
 def clean_docs(docs):
-    new_stopwords = [".", "n't", "?", "!", "...", ",", ";", ":", ")", "(", "&", "|", ".."]
+    new_stopwords = [".", "n't", "?", "!", "...", ",", ";", ":", ")", "(", "&", "|", "..", "red", "bull", "redbull"]
     stopwordsCustom = stopwords.words('english')
     for new_stop in new_stopwords:
         stopwordsCustom.append(new_stop)
     final = []
     for doc in docs:
+        doc=doc.lower()
         clean_doc = remove_stops(lemmatize_docs(doc), stopwordsCustom)
+
+        clean_doc = clean_doc.replace("redbull", "")
+        clean_doc = clean_doc.replace("red", "")
+        clean_doc = clean_doc.replace("bull", "")
+        print(clean_doc)
+
         final.append(clean_doc)
-    return (final)
+    return final
 
 
 def clustering(donnees):
@@ -73,12 +80,13 @@ def clustering(donnees):
     print("Début cleanDoc\n")
     cleaned_docs = clean_docs(donnees)
 
-
     print("Début tfIdf\n")
-    vectorizer = TfidfVectorizer(lowercase=True, min_df=6, max_df=0.8, ngram_range=(1,1), stop_words='english', use_idf=True)
+    vectorizer = TfidfVectorizer(lowercase=True, min_df=int((len(donnees)/100)*2), max_df=0.8, ngram_range=(1, 1), stop_words='english',
+                                 use_idf=True)
     print("Fin tfIdf\n")
     print("Début fit_transform\n")
-    #X = vectorizer.fit_transform(cleaned_docs)
+    # X = vectorizer.fit_transform(cleaned_docs)
+    print(cleaned_docs)
     X = vectorizer.fit_transform(cleaned_docs)
     true_k = 4
     print("KMeans\n")
@@ -101,8 +109,6 @@ def clustering(donnees):
     jsonFile = open("cluster.json", "w")
     jsonFile.write(jsonString)
     jsonFile.close()
-
-
 
 
 def cluster(db):
@@ -152,7 +158,7 @@ if __name__ == '__main__':
     # database
     db = myclient[nomDB]
     collection = db[nomCollection]
-    #insererdoc()
+    # insererdoc()
     # pour inserer les sentiments
     donnees = collection.find()
     for result in donnees:
@@ -161,11 +167,11 @@ if __name__ == '__main__':
         pays.append(result.get("tweet_text"))
         datetweet.append(result.get("tweet_date"))
 
-    #sentiment(text)
-    #recherchePays(pays)
+    # sentiment(text)
+    # recherchePays(pays)
     clustering(text)
     cluster(db)
-    #date(datetweet)
+    # date(datetweet)
 
     nltk.download('omw-1.4')
     df_idf(text, "idfFin.csv")
