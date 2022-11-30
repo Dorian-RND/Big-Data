@@ -32,7 +32,6 @@ def ecriture(polarity, subjectivity):
         info = {
             "sentiment": polarite
         }
-        print(info)
         donne.append(info)
 
     with open('sentiment.json', 'w') as mon_fichier:
@@ -48,8 +47,9 @@ def ecriture(polarity, subjectivity):
 
 def sentiment(donnee):
     for i in donnee:
-        test = TextBlob(i)
-        polarity, subjectivity = test.sentiment
-        tab_polarity.append(polarity)
-        tab_subjectivity.append(subjectivity)
+        if i is not None:
+            test = TextBlob(i)
+            polarity, subjectivity = test.sentiment
+            tab_polarity.append(polarity)
+            tab_subjectivity.append(subjectivity)
     ecriture(tab_polarity, tab_subjectivity)
