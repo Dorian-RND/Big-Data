@@ -2,7 +2,7 @@ import json
 import re
 import string
 
-import nltk
+import pandas as pd
 import spacy
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -16,7 +16,7 @@ from sklearn.cluster import KMeans
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 from Sentiment.Sentiment import sentiment
-from TF_IDF.df_idf import df_idf
+from TF_IDF.Nouvelle_Version.df_idfV2 import calc_df_idfV2
 from collectTweet.CSVtoJSON import csv_to_json
 from date.date import date
 from pays.pays import recherchePays
@@ -63,7 +63,7 @@ def clean_docs(docs):
         stopwordsCustom.append(new_stop)
     final = []
     for doc in docs:
-        doc=doc.lower()
+        doc = doc.lower()
         clean_doc = remove_stops(lemmatize_docs(doc), stopwordsCustom)
 
         clean_doc = clean_doc.replace("redbull", "")
@@ -81,7 +81,8 @@ def clustering(donnees):
     cleaned_docs = clean_docs(donnees)
 
     print("Début tfIdf\n")
-    vectorizer = TfidfVectorizer(lowercase=True, min_df=int((len(donnees)/100)*2), max_df=0.8, ngram_range=(1, 1), stop_words='english',
+    vectorizer = TfidfVectorizer(lowercase=True, min_df=int((len(donnees) / 100) * 2), max_df=0.8, ngram_range=(1, 1),
+                                 stop_words='english',
                                  use_idf=True)
     print("Fin tfIdf\n")
     print("Début fit_transform\n")
@@ -148,9 +149,52 @@ def insererdoc():
     collection.insert_many(file_data)
 
 
+def maxlike(like, text, db):
+    collection = db["like"]
+    collection.drop()
+    p = []
+    none = 0
+    for i in like:
+        if i is None:
+            none = none + 1
+        else:
+
+            p.append(i)
+    yes = p.index(max(p))
+    print(like[yes])
+    like = {
+        "nblike": str(like[yes]),
+        "texte": text[yes]
+    }
+
+    collection.insert_one(like)
+
+
+def maxRT(rt, text, db):
+    collection = db["rt"]
+    collection.drop()
+    p = []
+    none = 0
+    for i in rt:
+        if i is None:
+            none = none + 1
+        else:
+
+            p.append(i)
+    yes = p.index(max(p))
+    like = {
+        "nblike": str(rt[yes]),
+        "texte": text[yes]
+    }
+
+    collection.insert_one(like)
+
+
 if __name__ == '__main__':
     text = []
     pays = []
+    rt = []
+    like = []
     datetweet = []
     # Making Connection
     myclient = MongoClient(serveurMongo)
@@ -164,15 +208,46 @@ if __name__ == '__main__':
     for result in donnees:
         if result.get("tweet_localisation") is not None:
             text.append(result.get("tweet_localisation"))
+            like.append(result.get("nb_Like"))
+            rt.append(result.get("nb_RT"))
         pays.append(result.get("tweet_text"))
         datetweet.append(result.get("tweet_date"))
 
     # sentiment(text)
     # recherchePays(pays)
-    clustering(text)
-    cluster(db)
+    # clustering(text)
+    # cluster(db)
     # date(datetweet)
+    # maxlike(like, text, db)
+    # maxRT(rt, text, db)
 
-    nltk.download('omw-1.4')
-    df_idf(text, "idfFin.csv")
-    csv_to_json("idfFin.csv", "idfFin.json")
+
+
+    tfIdfVectorizer = TfidfVectorizer(use_idf=True)
+    tfIdf = tfIdfVectorizer.fit_transform(text)
+    df = pd.DataFrame(tfIdf[0].T.todense(), index=tfIdfVectorizer.get_feature_names(), columns=["TF-IDF"])
+    df = df.sort_values('TF-IDF', ascending=False)
+    var=df.head(10)
+    index=var.index
+    values=var.values
+    l=[]
+    m=[]
+    for i in index:
+        l.append(i)
+    for k in values:
+        m.append(k[0])
+    ins=[]
+    collection = db["tfidf"]
+    collection.drop()
+    for s in range(len(m)):
+
+
+
+        like = {
+            "mot": l[s],
+            "nombre": str(m[s])
+        }
+        ins.append(like)
+
+    collection.insert_many(ins)
+
